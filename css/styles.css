@@ -1,11 +1,10 @@
-h2.intro {
-  color: red;
+div.intro {
 
+  font-style: italic;
 }
 
-p.intro {
-  font-style: italic;
-
+div.intro h2 {
+  color: red;
 }
 
 img.intro {
