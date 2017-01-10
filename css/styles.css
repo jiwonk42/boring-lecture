@@ -25,3 +25,8 @@ h1 {
   font-size: 40px;
 
 }
+
+.highlight {
+  border: 1px solid black;
+  background-color: yellow;
+}
